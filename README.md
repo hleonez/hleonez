@@ -24,6 +24,8 @@ Sistema web para carga, visualización y modelado predictivo de datasets.
 -   Desarrollo backend con **Python (Django)**
     
 -   Desarrollo backend con **JavaScript (Node.js)**
+
+-   Programación Orientada a Objetos (POO) en Java
     
 -   Arquitectura por capas (MVC) y separación de responsabilidades
     
