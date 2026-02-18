@@ -1,57 +1,55 @@
-# 👋 ¡Hola! Soy Héctor (PanicAxe5)
 
-### 🧠 Estudiante de Ingeniería de Sistemas | 👨‍💻 Apasionado por la programación y la tecnología
+# Hector Leon (PanicAxe5)
 
----
+## Sobre mí
 
-## 📌 Sobre mí
+Ingeniero de Sistemas en formación, enfocado en desarrollo backend y construcción de sistemas orientados al manejo y procesamiento de datos.
 
-Mi nombre es **Héctor**, tengo 18 años y actualmente soy estudiante de **Ingeniería de Sistemas**. Me considero una persona **proactiva, creativa** y con fuerte interés por la **resolución de problemas a través de la tecnología**.
+----------
 
-Aunque todavía estoy en proceso de aprendizaje, tengo una base sólida en programación y constantemente busco mejorar mis habilidades técnicas y personales.
+## Proyectos actuales
 
----
+**Aeris**  
+Sistema de monitoreo remoto de calidad del aire.
 
-## 💻 Tecnologías que manejo
+**Airlab Data Playground**  
+Sistema web para carga, visualización y modelado predictivo de datasets.
 
-### 🔹 Lenguajes de programación:
-- ⚙️ **Java** (mi lenguaje más fuerte)
-- 🐍 Python
-- 💻 JavaScript
-- 💡 C++
-- 🧬 Ensamblador (Assembler)
+----------
 
-### 🔹 Tecnologías web:
-- 🌐 HTML
+## Áreas técnicas
 
-### 🔹 Control de versiones:
-- 🛠️ Git (nivel básico, en crecimiento)
+### Backend Engineering
 
----
+-   Desarrollo backend con **Python (Django)**
+    
+-   Desarrollo backend con **JavaScript (Node.js)**
+    
+-   Arquitectura por capas (MVC) y separación de responsabilidades
+    
+-   Uso de ORM y gestión de integridad referencial
+    
 
-## 🧠 Habilidades blandas
+### Bases de Datos
 
-- 💬 Comunicación asertiva  
-- 🤝 Trabajo en equipo  
-- 🎯 Liderazgo (me considero un buen líder natural)  
-- 🔍 Pensamiento analítico  
-- 🔄 Adaptabilidad  
+-   Diseño y modelado de bases de datos relacionales
+    
+-   Principios de normalización y limpieza de datos
+    
+-   **MySQL**
+    
+-   **PostgreSQL**
+    
 
----
+### Análisis de Datos
 
-## 🎮 Hobbies e intereses
+-   Análisis estadístico con **R** (nivel básico)
+    
 
-- 🍕 Comer (¡lo disfruto mucho!)
-- 🎮 Jugar videojuegos
-- 💻 Programar y crear proyectos
-- 🏋️‍♂️ Hacer ejercicio y mantenerme activo
+### Frontend
 
----
+-   Conocimientos básicos de **HTML, CSS y JavaScript** para integración con backend
 
-## 🚀 Objetivo profesional
+### Control de versiones
 
-Mi meta es convertirme en un **desarrollador de software competente** y aportar a proyectos que generen un impacto real. Estoy abierto a nuevas oportunidades que me reten, me enseñen y me permitan crecer tanto técnica como personalmente.
-
-
-
-
+-   **Git** y **GitHub**
