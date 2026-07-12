@@ -82,17 +82,7 @@ I'm currently building several backend-focused projects to explore topics such a
 * CI/CD
 * Distributed Systems
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hleonez&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hleonez&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
 
 ---
 
