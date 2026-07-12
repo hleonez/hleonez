@@ -1,57 +1,119 @@
+<div align="center">
 
-# Hector Leon (PanicAxe5)
+# Hi there 👋 I'm Hector Leon
 
-## Sobre mí
+### Backend Developer | Systems Engineering Student | Cloud Enthusiast
 
-Ingeniero de Sistemas en formación, enfocado en desarrollo backend y construcción de sistemas orientados al manejo y procesamiento de datos.
+<p>
+I enjoy designing scalable backend systems, learning software architecture, and building projects that solve real-world problems.
+</p>
 
-----------
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Software+Architecture+Enthusiast;Learning+Cloud+Engineering;Building+Projects+that+Scale" />
 
-## Proyectos actuales
+</div>
 
-**Aeris**  
-Sistema de monitoreo remoto de calidad del aire.
+---
 
-**Airlab Data Playground**  
-Sistema web para carga, visualización y modelado predictivo de datasets.
+## 🚀 About Me
 
-----------
+* 🎓 Systems Engineering student.
+* 💻 Passionate about backend development and software architecture.
+* 🐳 Learning modern development workflows with Docker and microservices.
+* ☁️ Currently studying AWS and cloud technologies.
+* 📚 Interested in clean architecture, distributed systems and APIs.
+* 🎯 My goal is to become a Backend/Cloud Engineer.
 
-## Áreas técnicas
+---
 
-### Backend Engineering
+## 🛠 Tech Stack
 
--   Desarrollo backend con **Python (Django)**
-    
--   Desarrollo backend con **JavaScript (Node.js)**
+### Languages
 
--   Programación Orientada a Objetos (POO) en Java
-    
--   Arquitectura por capas (MVC) y separación de responsabilidades
-    
--   Uso de ORM y gestión de integridad referencial
-    
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,r" />
+</p>
 
-### Bases de Datos
+### Backend
 
--   Diseño y modelado de bases de datos relacionales
-    
--   Principios de normalización y limpieza de datos
-    
--   **MySQL**
-    
--   **PostgreSQL**
-    
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,fastapi" />
+</p>
 
-### Análisis de Datos
+### Databases
 
--   Análisis estadístico con **R** (nivel básico)
-    
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-### Frontend
+### DevOps & Cloud
 
--   Conocimientos básicos de **HTML, CSS y JavaScript** para integración con backend
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,azure" />
+</p>
 
-### Control de versiones
+### Tools
 
--   **Git** y **GitHub**
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,linux" />
+</p>
+
+---
+
+### ⚙️ Backend Portfolio
+
+I'm currently building several backend-focused projects to explore topics such as:
+
+* REST APIs
+* Authentication
+* Payment gateways
+* Docker
+* Microservices
+* Cloud deployment
+* Software architecture
+
+---
+
+## 🌱 Currently Learning
+
+* Microservices Architecture
+* Docker & Docker Compose
+* AWS Cloud
+* Software Design Patterns
+* CI/CD
+* Distributed Systems
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hleonez&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hleonez&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/hleonez">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="www.linkedin.com/in/héctor-andrés-león-pérez-71a051239">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Great software is built through continuous learning."*
+
+</div>
