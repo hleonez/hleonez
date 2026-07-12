@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Hector Leon
+# I'm Hector Leon
 
 ### Backend Developer | Systems Engineering Student | Cloud Enthusiast
 
